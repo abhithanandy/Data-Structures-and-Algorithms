@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -34,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
