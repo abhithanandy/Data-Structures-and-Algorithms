@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
