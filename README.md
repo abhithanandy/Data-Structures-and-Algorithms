@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
+| [0090-subsets-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
