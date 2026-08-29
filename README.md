@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
