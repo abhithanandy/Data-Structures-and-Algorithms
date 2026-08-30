@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
