@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 ## Union-Find
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
