@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
 |  |
