@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
