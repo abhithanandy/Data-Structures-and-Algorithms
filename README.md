@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0072-edit-distance) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
