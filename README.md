@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
+| [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
