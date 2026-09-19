@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -407,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
