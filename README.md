@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
