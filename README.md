@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
