@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
