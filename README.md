@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
