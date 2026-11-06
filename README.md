@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
 |  |
