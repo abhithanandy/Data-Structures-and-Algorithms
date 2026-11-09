@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
