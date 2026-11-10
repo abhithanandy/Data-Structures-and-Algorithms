@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Matrix
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
