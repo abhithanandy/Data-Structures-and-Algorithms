@@ -2,11 +2,11 @@ class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
 
-        if (root == NULL) {
-            return NULL;
+        if (root == nullptr) {
+            return nullptr;
         }
 
-        // Find the node
+        // Search for the node
         if (key < root->val) {
             root->left = deleteNode(root->left, key);
         }
@@ -14,28 +14,34 @@ public:
             root->right = deleteNode(root->right, key);
         }
 
-        // Found the node
         else {
-
-            // No left child
-            if (root->left == NULL) {
-                return root->right;
+            // Case 1: No left child
+            if (root->left == nullptr) {
+                TreeNode* temp = root->right;
+                delete root;
+                return temp;
             }
 
-            // No right child
-            if (root->right == NULL) {
-                return root->left;
+            // Case 2: No right child
+            if (root->right == nullptr) {
+                TreeNode* temp = root->left;
+                delete root;
+                return temp;
             }
 
-            // Two children
+            // Case 3: Two children
+
+            // Find inorder successor
             TreeNode* temp = root->right;
 
-            while (temp->left != NULL) {
+            while (temp->left != nullptr) {
                 temp = temp->left;
             }
 
+            // Replace value
             root->val = temp->val;
 
+            // Delete successor
             root->right = deleteNode(root->right, temp->val);
         }
 
