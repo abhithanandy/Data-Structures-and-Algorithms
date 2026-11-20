@@ -1,8 +1,8 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        if (root == NULL) {
-            return NULL;
+        if (root == nullptr) {
+            return nullptr;
         }
 
         if (root->val == val) {
