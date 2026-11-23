@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0846-hand-of-straights](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
+| [0846-hand-of-straights](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
