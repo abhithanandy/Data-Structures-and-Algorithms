@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/2785-sort-vowels-in-a-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -535,4 +537,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/abhithanandy/Data-Structures-and-Algorithms/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
